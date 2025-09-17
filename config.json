@@ -1,7 +1,8 @@
 {
   "modules": [
     {"name": "systeminfo"},
-    {"name": "uptime"}
+    {"name": "uptime"},
+    {"name": "mymodule"}   <-- add your new module here
   ],
   "min_sleep": 20,
   "max_sleep": 60
