@@ -1,0 +1,22 @@
+{
+  "agent": "lab-vm-1",
+  "time": "2025-09-17T08:31:26.135707",
+  "results": [
+    {
+      "systeminfo": {
+        "time": "2025-09-17T08:31:26.135721",
+        "hostname": "kali",
+        "platform": "Linux-6.12.33+kali-amd64-x86_64-with-glibc2.41",
+        "cpu_count": 12,
+        "cpu_percent": 6.4,
+        "memory_percent": 41.6
+      }
+    },
+    {
+      "uptime": {
+        "time": "2025-09-17T08:31:27.136338",
+        "uptime_seconds": 21264
+      }
+    }
+  ]
+}
