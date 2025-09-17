@@ -1,0 +1,8 @@
+{
+  "modules": [
+    {"name": "systeminfo"},
+    {"name": "uptime"}
+  ],
+  "min_sleep": 20,
+  "max_sleep": 60
+}
